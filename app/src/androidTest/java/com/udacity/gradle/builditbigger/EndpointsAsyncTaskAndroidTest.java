@@ -8,10 +8,10 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
-import cloud_controller.EndpointsAsyncTask;
+import cloud_control.EndpointsAsyncTask;
 
 /**
- * Android Unit Test to test if the string retrieved from the cloud is not empty.
+ * Android Unit Test to test if the string retrieved from the cloud_control is not empty.
  */
 @SuppressWarnings("deprecation")
 public class EndpointsAsyncTaskAndroidTest extends ActivityInstrumentationTestCase2<MainActivity> {

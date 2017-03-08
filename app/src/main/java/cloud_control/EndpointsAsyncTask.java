@@ -1,4 +1,4 @@
-package cloud_controller;
+package cloud_control;
 
 import android.content.Context;
 import android.content.Intent;
@@ -15,9 +15,6 @@ import com.google.api.client.googleapis.services.GoogleClientRequestInitializer;
 
 import java.io.IOException;
 
-/**
- * Created by ahmed on 3/6/2017.
- */
 
 public class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, String> {
     private static MyApi myApiService = null;

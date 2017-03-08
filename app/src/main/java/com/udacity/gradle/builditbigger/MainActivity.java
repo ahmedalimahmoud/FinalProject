@@ -13,7 +13,7 @@ import android.widget.Toast;
 import com.example.Joker;
 import com.example.android.androidjoke.DisplayJoke;
 
-import cloud_controller.EndpointsAsyncTask;
+import cloud_control.EndpointsAsyncTask;
 
 
 public class MainActivity extends AppCompatActivity {
