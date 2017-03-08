@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application android:allowBackup="true"
-        android:fullBackupContent="true"
+       
         tools:ignore="GoogleAppIndexingWarning">
         <!-- This meta-data tag is required to use Google Play Services. -->
         <meta-data
